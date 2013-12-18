@@ -1,0 +1,31 @@
+# 12-16+2013
+# Write a program that asks for first, middle, last name, then counts the number of characters in the string.
+#puts 'What is your First Name?: '
+#f_name = gets.chomp
+#puts 'What is your Middle Name?: '
+#m_name = gets.chomp
+#puts 'And finally, What is your Last Name?: '
+#l_name = gets.chomp
+#puts 'Hello '+ f_name +' ' + m_name + ' ' + l_name +'! How are you?'
+#puts
+#char_count = (f_name.length.to_i + m_name.length.to_i + l_name.length.to_i)
+#puts 'Your name has ' + char_count.to_s  + ' characters in it.'
+#
+#line_width = 100
+#puts( 'Old Mother Hubbard'.center(line_width))
+#puts('Sat in her cupboard'.center(line_width))
+#puts('Eating her curds and whey,'.center(line_width))
+#puts( 'When along came a spider'.center(line_width))
+#puts( 'Who sat down beside her'.center(line_width))
+#puts('And scared her poor shoe dog away.'.center(line_width))
+
+#
+#puts 'Enter the bosses rude and demanding question.'
+#boss_question1 = gets.chomp.upcase
+#puts 'Enter a statement from the boss.'
+#boss_statemenet1 = gets.chomp.capitalize
+#puts 'Good... Now ever your meek and humble request to the boss.'
+#cowering_employee = gets.chop.downcase
+#puts
+#puts boss_question1.to_s  + ' ' + cowering_employee.to_s + ' ' + boss_statemenet1.to_s
+
