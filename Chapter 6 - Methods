@@ -29,5 +29,7 @@ boss_statemenet1 = gets.chomp.capitalize
 puts 'Good... Now enter your meek and humble request to the boss.'
 cowering_employee = gets.chomp
 puts
-puts "What do you mean ".upcase + '\'' + cowering_employee.to_s + '\''+ ' ' + boss_question1 + ' ' + boss_statemenet1.to_s
+puts "What do you mean ".upcase + '\'' + cowering_employee.to_s.capitalize + '\''+ ' ' + boss_question1 + ' ' + boss_statemenet1.to_s
 
+
+# This is a comment
