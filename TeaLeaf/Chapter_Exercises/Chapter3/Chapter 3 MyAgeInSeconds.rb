@@ -19,7 +19,7 @@ seconds_year = min_day * days_year * sec_hour
 #minutes_decade = min_day * days_year * yrs_decade
 #puts
 #puts 'There are ' + hours_year.to_s + ' hours in a year!'
-#puts
+#puts                       '
 #puts 'There are ' + minutes_decade.to_s + ' minutes in a decade!'
 #puts
 #puts "Enter your age, Years:"
