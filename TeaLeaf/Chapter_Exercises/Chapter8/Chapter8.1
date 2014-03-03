@@ -1,0 +1,42 @@
+names = ['Patrick', 'Paula', 'Zach', 'Jenny']
+foods = ['Aritchoke', 'Broccoli', 'Ham', 'Apples', 'Sushi']
+names.each do |x|
+  puts 'What did you say ' + x + '?'
+end
+puts 'And what about Nicole and David?'
+puts 'Yes, to you two too.'
+puts
+
+# This is learning how to use the .join method for arrays.
+puts foods
+puts
+puts foods.to_s
+puts
+puts foods.join (', ')
+puts
+puts foods
+puts
+puts foods.join ('     :<    ') + '   8)'
+
+# This is learning how to use "push", "pop" and "last"
+favorites = []
+puts
+favorites.push 'Raindrops on Roses.'
+favorites.push 'Rats and snails'
+puts favorites
+puts
+puts 'Favorites[0] = ' + favorites [0]
+puts
+puts 'favorites[1] = ' + favorites [1]
+puts
+puts 'favorites.last = ' + favorites.last
+puts
+puts 'favorites.length = ' + favorites.length.to_s
+puts 'why?'
+puts
+puts 'favorites.pop  ' + favorites.pop
+puts
+puts 'favorites ' + favorites.to_s
+puts
+puts 'favorites.length ' + favorites.length.to_s
+puts

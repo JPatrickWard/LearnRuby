@@ -1,0 +1,10 @@
+
+i=0
+num = 1000
+while i < num
+do
+  rspec Users/patrick.ward/RubymineProjects/katana/milestones/spec/features/Level1/06_Order_Entry/
+  i +=1
+end
+end
+
