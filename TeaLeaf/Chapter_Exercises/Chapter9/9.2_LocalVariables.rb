@@ -14,8 +14,6 @@ puts
 square_this 7.49
 
 puts
-puts
-
 
 tough_var = 'You can\'t even touch my variable!'
 def little_pest tough_var

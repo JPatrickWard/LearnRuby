@@ -13,3 +13,4 @@ puts 'What is your favorite number?'
 number = gets.chomp.to_f
 new_num = number.to_f + 0.1
 puts 'If ' + number.to_s + ' is your favorite number then you should like '  + new_num.to_s  + ' because it\'s slightly bigger'
+puts

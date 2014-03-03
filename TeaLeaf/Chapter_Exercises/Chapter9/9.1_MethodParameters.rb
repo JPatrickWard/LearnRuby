@@ -3,11 +3,11 @@ def say_moo number_of_moos
 end
 
 #say_moo 3
-#puts 'oink'
-#
-#
-#return_val = puts 'This puts returned:'
-#puts return_val
+puts 'oink'
+
+
+return_val = puts 'This puts returned:'
+puts return_val
 
 
 puts
