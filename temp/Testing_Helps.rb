@@ -13,9 +13,9 @@ require "date"
 #
 #puts "A5. " + your_age.to_s
 
-#puts 'Enter String for character count'
-#character_count = gets.chomp
-#puts 'Character Count: ' + character_count.length.to_s
+puts 'Enter String for character count'
+character_count = gets.chomp
+puts 'Character Count: ' + character_count.length.to_s
 
 
 #puts rand
@@ -72,6 +72,6 @@ require "date"
 #  end
 #end
 
-hello = 'hello'
-puts hello.length
+#hello = 'hello'
+#puts hello.length
 

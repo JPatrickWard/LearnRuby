@@ -2,10 +2,10 @@
 
 require './Arrays'
 
-#name_array = Name_array.new
+number_array = Number_array.new
 puts   'hi'
 puts
-number_array = Number_array.new
+name_array = Name_array.new
 
 #name_array
 #puts 'Hi'
