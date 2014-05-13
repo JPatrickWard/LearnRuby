@@ -185,8 +185,3 @@ while playertotal < 21
     puts "No winner.  Tied game."
   end
 exit
-
-
-
-
-
