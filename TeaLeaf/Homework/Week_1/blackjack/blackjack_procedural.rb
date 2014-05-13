@@ -59,7 +59,7 @@ end
 # Start the game
 
 puts ' Welcome to the BlackJack game. Please enter your name. '
-player_name = "Patrick"
+player_name = gets.chomp
 puts "Ok #{player_name}, let\'s begin!"
 
 # Create an Array of cards
