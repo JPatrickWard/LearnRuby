@@ -1,0 +1,25 @@
+<h1>BlackJack</h1>
+
+<p>Welcome <%= session[:player_name] %>. </br> We will now proceed to take your money!!</p>
+
+<div class="container-fluid">
+  <div class="span4">...</div>
+  <div class="span4 offset2">...</div>
+</div>
+
+
+
+Dealer's Cards:
+<ul>
+  <% session[:dealer_cards].each do |card| %>
+    <li><%= card.to_s %> </li>
+  <% end %>
+</ul>
+<br>
+
+<%= session[:player_name] %>'s Cards:
+<ul>
+  <% session[:player_cards].each do |card| %>
+      <li><%= card.to_s %> </li>
+  <% end %>
+</ul>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TeaLeaf.iml" filepath="$PROJECT_DIR$/.idea/TeaLeaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TeaLeaf_Academy/.idea/TeaLeaf.iml" filepath="$PROJECT_DIR$/../TeaLeaf_Academy/.idea/TeaLeaf.iml" />
     </modules>
   </component>
 </project>
