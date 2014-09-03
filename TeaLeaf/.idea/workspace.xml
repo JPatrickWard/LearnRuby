@@ -2,144 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f598c0f0-2579-476a-b592-b64558e6a510" name="Default" comment="Week 1 - Procedural Blackjack game is completed">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/BlackJack_Game_OO.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/game.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/new_player.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/sinatra_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework/3 General Dev Environment.mov" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Homework/Week_2/blackjack_oo_solution2.rb" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/.idea/.name" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/TeaLeaf.iml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/.idea/TeaLeaf.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/.idea/encodings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/.idea/scopes/scope_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter_Exercises/Chapter3/Chapter 3 MyAgeInSeconds.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Chapter_Exercises/Chapter3/Chapter 3 MyAgeInSeconds.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter_Exercises/Chapter5/Chapter 5 Strings.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Chapter_Exercises/Chapter5/Chapter 5 Strings.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter_Exercises/Chapter6/Chapter 6 - Methods" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Chapter_Exercises/Chapter6/Chapter 6 - Methods" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter_Exercises/Chapter8/Chapter8.1" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Chapter_Exercises/Chapter8/Chapter8.1" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter_Exercises/Chapter8/Chapter8.3" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Chapter_Exercises/Chapter8/Chapter8.3" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter_Exercises/Chapter9/9.1_MethodParameters.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Chapter_Exercises/Chapter9/9.1_MethodParameters.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter_Exercises/Chapter9/9.2_LocalVariables.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Chapter_Exercises/Chapter9/9.2_LocalVariables.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/.idea/.name" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/.idea/.name" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/.idea/Homework.iml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/.idea/Homework.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/.idea/encodings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/.idea/misc.xml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/.idea/modules.xml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/.idea/scopes/scope_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_1/Arrays.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_1/Arrays.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_1/Calculator.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_1/Calculator.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_1/Pass_by_ref_val.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_1/Pass_by_ref_val.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_1/arrays_example.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_1/arrays_example.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_1/blackjack/blackjack_procedural.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_1/blackjack/blackjack_procedural.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_1/blackjack/dealer_helper.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_1/blackjack/dealer_helper.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_1/blackjack/player_helper.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_1/blackjack/player_helper.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/5_6_7_8_Factorial.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/5_6_7_8_Factorial.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/BlackJack_ObjectOriented.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/BlackJack_ObjectOriented.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/GoodDog2.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/GoodDog2.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/Movie_Titles_by_Array.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/Movie_Titles_by_Array.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/Movie_Titles_by_Hash.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/Movie_Titles_by_Hash.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/Thousands_Hundreds_Tens_Ones.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/Thousands_Hundreds_Tens_Ones.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/anagram.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/anagram.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/animal.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/animal.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/blackjack_OO.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/blackjack_OO.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/blackjack_oo_solution3.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/blackjack_oo_solution3.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/block_example.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/block_example.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/case_statement.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/case_statement.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/conditionals.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/conditionals.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/coniditional_loop.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/coniditional_loop.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/count_backwards_recur.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/count_backwards_recur.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/countdown.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/countdown.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/delete_s_words.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/delete_s_words.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/devide.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/devide.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/does_lab_word_exist.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/does_lab_word_exist.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/each_with_example.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/each_with_example.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/exception_handling.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/exception_handling.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/fibonacci_example.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/fibonacci_example.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/given.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/given.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/good_dog.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/good_dog.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/good_dog3.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/good_dog3.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/good_dog4.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/good_dog4.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/hash_methods.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/hash_methods.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/inline_exemption.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/inline_exemption.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/interating_over_hashes.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/interating_over_hashes.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/loop_data_structure.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/loop_data_structure.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/loop_example.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/loop_example.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/map_example.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/map_example.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/merge_method.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/merge_method.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/my_car.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/my_car.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/number_between_0_and_100.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/number_between_0_and_100.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/optional_parameters.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/optional_parameters.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/passing_blocks.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/passing_blocks.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/person.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/person.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/practice_each.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/practice_each.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/proc_call.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/proc_call.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/speak_module.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/speak_module.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/square_of_floats.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/square_of_floats.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/student.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/student.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/test.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/test.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/tic_tac_toe_oo.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/tic_tac_toe_oo.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/true_and_false.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/true_and_false.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/two_hashes.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/two_hashes.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/upcase.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/upcase.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Homework/Week_2/vehicle.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/vehicle.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/.gitignore" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/Gemfile" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/Gemfile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/README.rdoc" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/README.rdoc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/Rakefile" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/Rakefile" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/app/assets/images/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/app/assets/images/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/app/assets/javascripts/application.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/app/assets/stylesheets/application.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/app/controllers/application_controller.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/app/controllers/concerns/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/app/controllers/concerns/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/app/helpers/application_helper.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/app/mailers/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/app/mailers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/app/models/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/app/models/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/app/models/concerns/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/app/models/concerns/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/app/views/layouts/application.html.erb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/bin/bundle" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/bin/bundle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/bin/rails" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/bin/rails" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/bin/rake" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/bin/rake" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config.ru" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config.ru" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/application.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/application.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/boot.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/boot.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/database.yml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/database.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/environment.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/environment.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/environments/development.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/environments/development.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/environments/production.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/environments/production.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/environments/test.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/environments/test.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/initializers/backtrace_silencers.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/initializers/backtrace_silencers.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/initializers/filter_parameter_logging.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/initializers/filter_parameter_logging.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/initializers/inflections.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/initializers/inflections.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/initializers/mime_types.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/initializers/mime_types.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/initializers/secret_token.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/initializers/secret_token.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/initializers/session_store.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/initializers/session_store.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/initializers/wrap_parameters.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/initializers/wrap_parameters.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/locales/en.yml" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/locales/en.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/config/routes.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/config/routes.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/db/seeds.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/db/seeds.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/lib/assets/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/lib/assets/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/lib/tasks/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/lib/tasks/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/log/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/log/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/public/404.html" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/public/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/public/422.html" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/public/422.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/public/500.html" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/public/500.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/public/favicon.ico" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/public/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/public/robots.txt" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/public/robots.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/test/controllers/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/test/controllers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/test/fixtures/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/test/fixtures/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/test/helpers/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/test/helpers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/test/integration/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/test/integration/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/test/mailers/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/test/mailers/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/test/models/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/test/models/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/test/test_helper.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/test/test_helper.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/vendor/assets/javascripts/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/vendor/assets/javascripts/.keep" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyRailsProject/TestProject/vendor/assets/stylesheets/.keep" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/MyRailsProject/TestProject/vendor/assets/stylesheets/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_ace.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_jack.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_king.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_queen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_ace.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_jack.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_king.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_queen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/vendor/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/vendor/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_ace.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_jack.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_king.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_queen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/joker_black.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/joker_red.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_ace.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_jack.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_king.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_queen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/Week_2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/application.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/vendor/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/vendor/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/vendor/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/vendor/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/config.ru" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/layout.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/main.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TeaLeaf.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -232,20 +171,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/main.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="825">
+            <state vertical-scroll-proportion="0.41370106" vertical-offset="0" max-vertical-offset="1124">
               <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="game.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/game.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31363636" vertical-offset="0" max-vertical-offset="1100">
+            <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="450">
               <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
               <folding />
             </state>
@@ -335,9 +274,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="18" />
     <option name="y" value="22" />
-    <option name="width" value="2518" />
+    <option name="width" value="2560" />
     <option name="height" value="1364" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -447,38 +385,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Homework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TeaLeaf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TeaLeaf_Academy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Homework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TeaLeaf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TeaLeaf_Academy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter_Exercises" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -749,11 +655,15 @@
       <created>1404938239843</created>
       <updated>1404938239843</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Week 1 - Procedural Blackjack game is completed">
+      <created>1409270600703</created>
+      <updated>1409270600703</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="18" y="22" width="2518" height="1364" extended-state="0" />
+    <frame x="0" y="22" width="2560" height="1364" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -761,7 +671,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15806195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39760637" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.108359136" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -769,12 +679,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3257979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3257979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1165,18 +1075,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/main.rb">
+    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/game.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="825">
-          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="450">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/game.erb">
+    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/main.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31363636" vertical-offset="0" max-vertical-offset="1100">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.41370106" vertical-offset="0" max-vertical-offset="1124">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
           <folding />
         </state>
       </provider>
