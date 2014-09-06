@@ -1,83 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f598c0f0-2579-476a-b592-b64558e6a510" name="Default" comment="Week 1 - Procedural Blackjack game is completed">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_ace.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_jack.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_king.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/clubs_queen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/cover.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_ace.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_jack.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_king.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/diamonds_queen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/vendor/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/vendor/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_ace.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_jack.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_king.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/hearts_queen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/joker_black.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/joker_red.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_ace.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_jack.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_king.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_queen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/Week_2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/application.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/vendor/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/vendor/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/vendor/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/layout.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/main.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/.idea/workspace.xml" />
+    <list default="true" id="f598c0f0-2579-476a-b592-b64558e6a510" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/game.erb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/game.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/layout.erb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/layout.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/main.rb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/main.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/new_player.erb" afterPath="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/new_player.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TeaLeaf.iws" />
@@ -144,7 +72,7 @@
     <SUITE FILE_PATH="coverage/TeaLeaf@exception_handling.coverage" NAME="exception_handling Coverage Results" MODIFIED="1402599383879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/Week_2" MODULE_NAME="TeaLeaf" />
     <SUITE FILE_PATH="coverage/TeaLeaf@delete_s_words.coverage" NAME="delete_s_words Coverage Results" MODIFIED="1402930960913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/Week_2" MODULE_NAME="TeaLeaf" />
     <SUITE FILE_PATH="coverage/TeaLeaf@loop_example.coverage" NAME="loop_example Coverage Results" MODIFIED="1401901365192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/Week_2" MODULE_NAME="TeaLeaf" />
-    <SUITE FILE_PATH="coverage/TeaLeaf@main.coverage" NAME="main Coverage Results" MODIFIED="1409009073784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/Week_3" MODULE_NAME="TeaLeaf" />
+    <SUITE FILE_PATH="coverage/TeaLeaf@main.coverage" NAME="main Coverage Results" MODIFIED="1409762273510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack" MODULE_NAME="TeaLeaf" />
     <SUITE FILE_PATH="coverage/TeaLeaf@Movie_Titles.coverage" NAME="Movie_Titles_by_Hash Coverage Results" MODIFIED="1400113372385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/Week_2" MODULE_NAME="TeaLeaf" />
     <SUITE FILE_PATH="coverage/TeaLeaf@given.coverage" NAME="given Coverage Results" MODIFIED="1402538029741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/Week_2" MODULE_NAME="TeaLeaf" />
     <SUITE FILE_PATH="coverage/TeaLeaf@dealer_helper.coverage" NAME="dealer_helper Coverage Results" MODIFIED="1399404569567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework/Week_1/blackjack" MODULE_NAME="TeaLeaf" />
@@ -174,8 +102,8 @@
       <file leaf-file-name="main.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/main.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41370106" vertical-offset="0" max-vertical-offset="1124">
-              <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.40298507" vertical-offset="474" max-vertical-offset="1665">
+              <caret line="46" column="71" selection-start-line="45" selection-start-column="7" selection-end-line="46" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -184,18 +112,18 @@
       <file leaf-file-name="game.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/game.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="450">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="750">
+              <caret line="2" column="76" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new_player.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/new_player.erb">
+      <file leaf-file-name="layout.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/layout.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="165">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="555">
+              <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -219,9 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Homework/Week_2/upcase.rb" />
-        <option value="$PROJECT_DIR$/Homework/Week_2/number_between_0_and_100.rb" />
-        <option value="$PROJECT_DIR$/Homework/Week_2/countdown.rb" />
         <option value="$PROJECT_DIR$/Homework/Week_2/coniditional_loop.rb" />
         <option value="$PROJECT_DIR$/Homework/Week_2/practice_each.rb" />
         <option value="$PROJECT_DIR$/Homework/Week_2/fibonacci_example.rb" />
@@ -269,14 +194,17 @@
         <option value="$PROJECT_DIR$/Homework/Week_3/views/new_player.erb" />
         <option value="$PROJECT_DIR$/Homework/Week_3/main.rb" />
         <option value="$PROJECT_DIR$/Homework/Week_3/views/game.erb" />
+        <option value="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/layout.erb" />
         <option value="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/game.erb" />
+        <option value="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/new_player.erb" />
+        <option value="$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/main.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="2560" />
-    <option name="height" value="1364" />
+    <option name="height" value="824" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -370,7 +298,93 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week_2" />
+              <option name="myItemId" value="Week_3_Sinatra_Blackjack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeaLeaf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeaLeaf_Academy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week_3_Sinatra_Blackjack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeaLeaf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeaLeaf_Academy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week_3_Sinatra_Blackjack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeaLeaf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeaLeaf_Academy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week_3_Sinatra_Blackjack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cards" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -659,23 +673,27 @@
       <created>1409270600703</created>
       <updated>1409270600703</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Week 1 - Procedural Blackjack game is completed">
+      <created>1409761653354</created>
+      <updated>1409761653354</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="2560" height="1364" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="2560" height="824" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.08710937" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39760637" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.108359136" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1861702" sideWeight="0.66944444" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.33046874" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.098297216" sideWeight="0.66914064" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -729,34 +747,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/case_statement.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/true_and_false.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="514">
-          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/upcase.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/number_between_0_and_100.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/countdown.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
@@ -1052,6 +1042,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/new_player.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.026954178" vertical-offset="0" max-vertical-offset="1113">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/joker_black.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/cover.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/public/images/cards/spades_5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_2/BlackJack_Game_OO.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2010" max-vertical-offset="4005">
@@ -1060,33 +1077,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/new_player.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="165">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/layout.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="555">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/views/game.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="450">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="750">
+          <caret line="2" column="76" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../TeaLeaf_Academy/Homework/Week_3_Sinatra_Blackjack/main.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41370106" vertical-offset="0" max-vertical-offset="1124">
-          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.40298507" vertical-offset="474" max-vertical-offset="1665">
+          <caret line="46" column="71" selection-start-line="45" selection-start-column="7" selection-end-line="46" selection-end-column="71" />
           <folding />
         </state>
       </provider>
